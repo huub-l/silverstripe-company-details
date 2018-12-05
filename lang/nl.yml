@@ -1,0 +1,12 @@
+nl:
+  SilverStripe\SiteConfig\SiteConfig:
+    City: 'Stad'
+    Company: 'Bedrijfsnaam'
+    ContactData: 'Contactgegevens'
+    Email: 'Email'
+    Logo: 'Logo'
+    Phone: 'Telefoonnummer'
+    SocialMedia: 'Social Media'
+    Street: 'Straat'
+    ZIP: 'Postcode'
+

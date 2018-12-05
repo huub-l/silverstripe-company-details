@@ -1,0 +1,6 @@
+---
+Name: silverstripe-extra-settings
+---
+SilverStripe\SiteConfig\SiteConfig:
+  extensions:
+    - Huubl\Extensions\DataObjects\SiteConfigExtension

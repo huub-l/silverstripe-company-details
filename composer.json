@@ -1,0 +1,31 @@
+{
+  "name": "silverstripe-extra-settings",
+  "type": "silverstripe-vendormodule",
+  "homepage": "https://github.com/huubl/silverstripe-extra-settings.git",
+  "keywords": ["silverstripe", "Contact Details", "Social Media"],
+  "authors": [
+    {
+      "name": "Huubl"
+    }
+  ],
+  "require": {
+    "silverstripe/vendor-plugin": "^1.0",
+    "silverstripe/framework": "~4.0",
+    "symbiote/silverstripe-gridfieldextensions": "^3.2"
+  },
+  "require-dev": {
+    "phpunit/phpunit": "^5.7"
+  },
+  "extra": {
+    "expose": [
+      "javascript"
+    ]
+  },
+  "autoload": {
+    "psr-4": {
+      "huubl\\silverstripe-extra-settings\\": "src/"
+    }
+  },
+  "prefer-stable": true,
+  "minimum-stability": "dev"
+}
