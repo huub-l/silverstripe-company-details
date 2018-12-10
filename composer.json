@@ -1,11 +1,13 @@
 {
   "name": "silverstripe-company-details",
+  "description": "Provides extra settings",
   "type": "silverstripe-vendormodule",
   "homepage": "https://github.com/huubl/silverstripe-company-details",
-  "keywords": ["silverstripe", "Contact Details", "Social Media"],
+  "keywords": ["silverstripe", "Contact", "Details", "Social", "Media"],
   "authors": [
     {
-      "name": "Huubl"
+      "name": "Huubl",
+      "email": "contact@studiolunter.nl"
     }
   ],
   "require": {
