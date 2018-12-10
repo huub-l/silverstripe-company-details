@@ -1,5 +1,5 @@
 {
-  "name": "silverstripe-company-details",
+  "name": "huubl/silverstripe-company-details",
   "description": "Provides extra settings",
   "type": "silverstripe-vendormodule",
   "homepage": "https://github.com/huubl/silverstripe-company-details",
@@ -10,9 +10,10 @@
       "email": "contact@studiolunter.nl"
     }
   ],
-  "require": {
-    "silverstripe/framework": "~4.0"
-  },
+    "require": {
+        "silverstripe/vendor-plugin": "^1.0",
+        "silverstripe/framework": "^4.0"
+    },
   "require-dev": {
     "phpunit/phpunit": "^5.7"
   },
