@@ -1,5 +1,6 @@
 {
   "name": "silverstripe-company-details",
+  "type": "silverstripe-vendormodule",
   "homepage": "https://github.com/huubl/silverstripe-company-details",
   "keywords": ["silverstripe", "Contact Details", "Social Media"],
   "authors": [
