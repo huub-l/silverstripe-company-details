@@ -1,7 +1,7 @@
 {
-  "name": "silverstripe-extra-settings",
+  "name": "silverstripe-company-details",
   "type": "silverstripe-vendormodule",
-  "homepage": "https://github.com/huubl/silverstripe-extra-settings.git",
+  "homepage": "https://github.com/huubl/silverstripe-company-details,
   "keywords": ["silverstripe", "Contact Details", "Social Media"],
   "authors": [
     {
@@ -23,7 +23,7 @@
   },
   "autoload": {
     "psr-4": {
-      "huubl\\silverstripe-extra-settings\\": "src/"
+      "huubl\\silverstripe-company-details\\": "src/"
     }
   },
   "prefer-stable": true,
