@@ -17,14 +17,9 @@
   "require-dev": {
     "phpunit/phpunit": "^5.7"
   },
-  "extra": {
-    "expose": [
-      "javascript"
-    ]
-  },
   "autoload": {
     "psr-4": {
-      "huubl\\silverstripe-company-details\\": "src/"
+      "Huubl\\Extensions\\DataObjects\\": "src/"
     }
   },
   "prefer-stable": true,
